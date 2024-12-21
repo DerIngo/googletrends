@@ -1,0 +1,8 @@
+selenium>=4.18.1
+webdriver_manager>=4.0.1
+python-dotenv
+Anthropic
+openai
+markdown2
+exa-py
+pytz
